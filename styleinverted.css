@@ -1,0 +1,117 @@
+.rouge
+{color: red; }
+
+.souligner
+{text-decoration: underline; }
+
+.petit
+{font-size: 0.4em; }
+
+.italique
+{font-style: italic; }
+
+.bleu
+{color: blue; }
+
+.gras
+{font-weight: bold; }
+
+
+.monospace
+{font-family: monospace; }
+
+
+.iscool
+{color: #444; 
+font-weight: 700; } 
+
+.iscool:before
+{content: ""; 
+display: inline-block; 
+width: 1em; 
+height: 1em; 
+margin-left: 0.2em; 
+margin-right: 0.2em; 
+background-color: #444; 
+}
+
+
+.isbetter
+{color: #454545; 
+font-weight: 700; } 
+
+.isbetter:before
+{content: ""; 
+display: inline-block; 
+width: 1em; 
+height: 1em; 
+margin-left: 0.2em; 
+margin-right: 0.2em; 
+background-color: #454545; 
+}
+
+.flottant
+{float: left; 
+}
+ 
+.dessous
+{clear: both; }
+
+
+.moyen
+{font-size: 0.7em; }
+
+
+.newroman
+{
+	font-family: Times;  
+}
+​
+span.citneed {
+  vertical-align: top;​
+  font-size: small;
+}
+
+
+.kopimi
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.marron
+{
+	color: brown; 
+}
+
+.droite
+{
+	text-align: right; 
+}
+
+.noir
+{
+	background-color: black;
+}
+
+.blanc
+{
+	color: white; 
+}
+
+
+
+html
+{
+	background-color: black; 
+	font-family: Open Sans,Arial;
+	color: #454545;
+	font-size: 16px;
+	margin: 2em auto;
+	max-width: 800px;
+	padding: 1em;
+	line-height: 1.4;
+	text-align: justify;
+
+}
